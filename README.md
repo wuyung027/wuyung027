@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🚀 Live Web Products & Micro-SaaS
-
-> Built, shipped, and monetized by **Wooyeong Seo**.  
+ 
 > Production-ready services featuring zero-dependency static builds, global CDNs, and live payment pipelines.
 
 #### 💳 AI Micro-SaaS (Paid Subscriptions & Lifetime Deals)
