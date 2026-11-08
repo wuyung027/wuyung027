@@ -146,6 +146,30 @@ AI 서비스의 사용성을 검증하고, 다양한 AI 모델의 답변 품질�
 - 📈 **AI Product Development** — 실제 사용자에게 가치를 제공하는 AI 서비스
 
 ---
+## 🚀 Live Micro-SaaS & Web Tools (1인 개발 및 글로벌 수익화)
+
+> 문제를 발견하고 빠르게 해결하는 1인 빌더로서, 직접 기획·구현·배포하여 **글로벌 결제망(Stripe / Buy Me a Coffee)과 애드센스 파이프라인**을 구축해 실제 운영 중인 10개의 라이브 서비스입니다.
+
+### 💳 AI & Developer Micro-SaaS (유료 정기 구독 & 평생권)
+
+| 서비스 | 한 줄 소개 | 수익 모델 | 바로가기 |
+|:---|:---|:---|:---|
+| **ColdPitch AI** | 취준생·프리랜서를 위한 맞춤형 고전환 영문 콜드메일 생성 AI | 월 $9.99 / 평생권 $29 | [🔗 Live Demo](https://coldpitch-ai.vercel.app/) |
+| **PassExam AI** | 100% 합격 환불 보장 테크 자격증 모의고사 & 핵심 플래시카드 | 월 $7.99 / 평생권 $19 | [🔗 Live Demo](https://passexam-ai.vercel.app/) |
+| **QuickMock API** | 프론트엔드 프로토타이핑을 위한 1초 발급 실시간 Mock REST API | 월 $6.99 / 평생권 $19 | [🔗 Live Demo](https://quickmock-api.vercel.app/) |
+| **PromptCraft Pro** | 동적 변수(`{{syntax}}`) 기반 AI 프롬프트 템플릿 매니저 | 월 $7.99 / 평생권 $29 | [🔗 Live Demo](https://promtcraft-pro.vercel.app/) |
+| **ViralHook AI** | 크리에이터와 마케터를 위한 고전환 소셜 미디어 후킹 문장 생성기 | 월 $9.99 Pro | [🔗 Live Demo](https://viralhook-ai-one.vercel.app/) |
+
+### 📢 Developer & Productivity Web Tools (무료 & 애드센스 광고)
+
+| 서비스 | 한 줄 소개 | 주요 기술 및 특징 | 바로가기 |
+|:---|:---|:---|:---|
+| **DevUnit** | 프론트엔드 올인원 단위 변환기 (PX ↔ REM, Color, Unix Epoch) | 100% 로컬 프라이버시, Tailwind 프리셋 | [🔗 Live Demo](https://devunit-six.vercel.app/) |
+| **QuickDiff** | 초경량 텍스트 & 소스코드 실시간 diff 비교 도구 | 클라이언트 보안, 통합/분할 뷰 | [🔗 Live Demo](https://quickdiff.vercel.app/) |
+| **WordPulse** | 글자수·단어수 실시간 카운터 및 음성 스피치 소요 시간 계산기 | 바이트 계산(UTF-8/EUC-KR), SNS 글자수 | [🔗 Live Demo](https://worldpulse-virid.vercel.app/) |
+| **PassCraft** | 암호학적 비밀번호 생성기 & 브루트포스 해킹 시간 측정기 | 비밀번호 엔트로피 및 보안 강도 분석 | [🔗 Live Demo](https://passcraft-henna.vercel.app/) |
+| **ZenFlow Timer** | Web Audio 기반 미니멀 뽀모도로 집중 타이머 & 사운드스케이프 | 빗소리·장작불 무압축 오디오 합성 | [🔗 Live Demo](https://zenflow-timer.vercel.app/) |
+---
 
 <div align="center">
 
