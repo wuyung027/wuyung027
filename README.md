@@ -1,9 +1,8 @@
-```markdown
 <div align="center">
 
-Web Development · AI Engineering · Automation · Machine Learning
+**Web Development · AI Engineering · Automation · Machine Learning**
 
-사용자의 문제를 기술로 해결하고,
+사용자의 문제를 기술로 해결하고,  
 아이디어를 실제 서비스로 구현하는 과정에 관심이 많습니다.
 
 </div>
@@ -12,12 +11,12 @@ Web Development · AI Engineering · Automation · Machine Learning
 
 ## 🙋‍♂️ About Me
 
-- 🌐 1인 마이크로 SaaS — AI 기반 글로벌 웹 서비스 15종 자체 기획·배포 및 글로벌 결제망 구축
-- 🚀 웹 서비스 개발 — 프론트엔드부터 백엔드까지 서비스 구현
-- 🤖 AI & LLM — 생성형 AI 활용, AI 에이전트 및 답변 품질 평가
-- ⚙️ 자동화 — 반복적인 업무를 효율화하는 자동화 시스템 개발
-- 📊 데이터 & ML — 데이터 분석, 머신러닝 모델 개발 및 성능 검증
-- 🛠️ 문제 해결 — 사용자 경험 개선, 서비스 QA 및 오류 분석
+- 🌐 **1인 마이크로 SaaS** — AI 기반 글로벌 웹 서비스 15종 자체 기획·배포 및 글로벌 결제망 구축
+- 🚀 **웹 서비스 개발** — 프론트엔드부터 백엔드까지 서비스 구현
+- 🤖 **AI & LLM** — 생성형 AI 활용, AI 에이전트 및 답변 품질 평가
+- ⚙️ **자동화** — 반복적인 업무를 효율화하는 자동화 시스템 개발
+- 📊 **데이터 & ML** — 데이터 분석, 머신러닝 모델 개발 및 성능 검증
+- 🛠️ **문제 해결** — 사용자 경험 개선, 서비스 QA 및 오류 분석
 
 ---
 
@@ -58,32 +57,32 @@ Web Development · AI Engineering · Automation · Machine Learning
 
 ## 🚀 Live Micro-SaaS & Web Tools (1인 개발 및 글로벌 수익화)
 
-> 문제를 발견하고 빠르게 해결하는 1인 빌더로서, 직접 기획·구현·배포하여 글로벌 결제망(Stripe / Buy Me a Coffee)과 애드센스 파이프라인을 구축해 실제 운영 중인 15개의 라이브 서비스입니다.
+> 문제를 발견하고 빠르게 해결하는 1인 빌더로서, 직접 기획·구현·배포하여 **글로벌 결제망(Stripe / Buy Me a Coffee)과 애드센스 파이프라인**을 구축해 실제 운영 중인 15개의 라이브 서비스입니다.
 
 ### 💳 AI & Developer Micro-SaaS (유료 정기 구독 & 평생권)
 
 | 서비스 | 한 줄 소개 | 수익 모델 | 바로가기 |
 |:---|:---|:---|:---|
-| ColdPitch AI | 취준생·프리랜서를 위한 맞춤형 고전환 영문 콜드메일 생성 AI | 월 $9.99 / 평생권 $29 | [🔗 Live Demo](https://coldpitch-ai.vercel.app/) |
-| PassExam AI | 100% 합격 환불 보장 테크 자격증 모의고사 & 핵심 플래시카드 | 월 $7.99 / 평생권 $19 | [🔗 Live Demo](https://passexam-ai.vercel.app/) |
-| QuickMock API | 프론트엔드 프로토타이핑을 위한 1초 발급 실시간 Mock REST API | 월 $6.99 / 평생권 $19 | [🔗 Live Demo](https://quickmock-api.vercel.app/) |
-| PromptCraft Pro | 동적 변수(`{{syntax}}`) 기반 AI 프롬프트 템플릿 매니저 | 월 $7.99 / 평생권 $29 | [🔗 Live Demo](https://promtcraft-pro.vercel.app/) |
-| ViralHook AI | 크리에이터와 마케터를 위한 고전환 소셜 미디어 후킹 문장 생성기 | 월 $9.99 Pro | [🔗 Live Demo](https://viralhook-ai-one.vercel.app/) |
+| **ColdPitch AI** | 취준생·프리랜서를 위한 맞춤형 고전환 영문 콜드메일 생성 AI | 월 $9.99 / 평생권 $29 | [🔗 Live Demo](https://coldpitch-ai.vercel.app/) |
+| **PassExam AI** | 100% 합격 환불 보장 테크 자격증 모의고사 & 핵심 플래시카드 | 월 $7.99 / 평생권 $19 | [🔗 Live Demo](https://passexam-ai.vercel.app/) |
+| **QuickMock API** | 프론트엔드 프로토타이핑을 위한 1초 발급 실시간 Mock REST API | 월 $6.99 / 평생권 $19 | [🔗 Live Demo](https://quickmock-api.vercel.app/) |
+| **PromptCraft Pro** | 동적 변수(`{{syntax}}`) 기반 AI 프롬프트 템플릿 매니저 | 월 $7.99 / 평생권 $29 | [🔗 Live Demo](https://promtcraft-pro.vercel.app/) |
+| **ViralHook AI** | 크리에이터와 마케터를 위한 고전환 소셜 미디어 후킹 문장 생성기 | 월 $9.99 Pro | [🔗 Live Demo](https://viralhook-ai-one.vercel.app/) |
 
 ### 📢 Developer & Productivity Web Tools (무료 & 애드센스 광고)
 
 | 서비스 | 한 줄 소개 | 주요 기술 및 특징 | 바로가기 |
 |:---|:---|:---|:---|
-| CleanSVG | SVG 최적화 및 React JSX 컴포넌트, 인라인 CSS Data URI, 고해상도 PNG 변환기 | 100% 로컬 보안, TypeScript 컴포넌트 지원 | [🔗 Live Demo](https://cleansvg.vercel.app/) |
-| CronPulse | 크론 표현식 시각화 빌더 & 인간어 실시간 해석 및 다음 실행시간 계산기 | 100% 로컬 연산, 5대 필드 양방향 동기화 | [🔗 Live Demo](https://cronpulse-azure.vercel.app/) |
-| MetaPreview | 오픈그래프(OG) 태그 & 트위터·링크드인·페이스북·디스코드 소셜 카드 실시간 프리뷰 | 100% 로컬 프라이버시, 4대 플랫폼 실시간 렌더링 | [🔗 Live Demo](https://metap-review.vercel.app/) |
-| QuickJSON | 초경량 JSON 포맷터, 실시간 유효성 검사기 & TypeScript 타입 추출기 | 100% 로컬 보안, 자동 인터페이스/유니온 추론 | [🔗 Live Demo](https://quick-json-gamma.vercel.app/) |
-| DocuMarkdown | 노션·웹 리치 텍스트 ➔ 클린 GitHub Flavored Markdown 원터치 변환기 | 100% 로컬 프라이버시, GFM 문법 자동 변환 | [🔗 Live Demo](https://docu-markdown.vercel.app/) |
-| DevUnit | 프론트엔드 올인원 단위 변환기 (PX ↔ REM, Color, Unix Epoch) | 100% 로컬 프라이버시, Tailwind 프리셋 | [🔗 Live Demo](https://devunit-six.vercel.app/) |
-| QuickDiff | 초경량 텍스트 & 소스코드 실시간 diff 비교 도구 | 클라이언트 보안, 통합/분할 뷰 | [🔗 Live Demo](https://quickdiff.vercel.app/) |
-| WordPulse | 글자수·단어수 실시간 카운터 및 음성 스피치 소요 시간 계산기 | 바이트 계산(UTF-8/EUC-KR), SNS 글자수 | [🔗 Live Demo](https://worldpulse-virid.vercel.app/) |
-| PassCraft | 암호학적 비밀번호 생성기 & 브루트포스 해킹 시간 측정기 | 비밀번호 엔트로피 및 보안 강도 분석 | [🔗 Live Demo](https://passcraft-henna.vercel.app/) |
-| ZenFlow Timer | Web Audio 기반 미니멀 뽀모도로 집중 타이머 & 사운드스케이프 | 빗소리·장작불 무압축 오디오 합성 | [🔗 Live Demo](https://zenflow-timer.vercel.app/) |
+| **CleanSVG** | SVG 최적화 및 React JSX 컴포넌트, 인라인 CSS Data URI, 고해상도 PNG 변환기 | 100% 로컬 보안, TypeScript 컴포넌트 지원 | [🔗 Live Demo](https://cleansvg.vercel.app/) |
+| **CronPulse** | 크론 표현식 시각화 빌더 & 인간어 실시간 해석 및 다음 실행시간 계산기 | 100% 로컬 연산, 5대 필드 양방향 동기화 | [🔗 Live Demo](https://cronpulse-azure.vercel.app/) |
+| **MetaPreview** | 오픈그래프(OG) 태그 & 트위터·링크드인·페이스북·디스코드 소셜 카드 실시간 프리뷰 | 100% 로컬 프라이버시, 4대 플랫폼 실시간 렌더링 | [🔗 Live Demo](https://metap-review.vercel.app/) |
+| **QuickJSON** | 초경량 JSON 포맷터, 실시간 유효성 검사기 & TypeScript 타입 추출기 | 100% 로컬 보안, 자동 인터페이스/유니온 추론 | [🔗 Live Demo](https://quick-json-gamma.vercel.app/) |
+| **DocuMarkdown** | 노션·웹 리치 텍스트 ➔ 클린 GitHub Flavored Markdown 원터치 변환기 | 100% 로컬 프라이버시, GFM 문법 자동 변환 | [🔗 Live Demo](https://docu-markdown.vercel.app/) |
+| **DevUnit** | 프론트엔드 올인원 단위 변환기 (PX ↔ REM, Color, Unix Epoch) | 100% 로컬 프라이버시, Tailwind 프리셋 | [🔗 Live Demo](https://devunit-six.vercel.app/) |
+| **QuickDiff** | 초경량 텍스트 & 소스코드 실시간 diff 비교 도구 | 클라이언트 보안, 통합/분할 뷰 | [🔗 Live Demo](https://quickdiff.vercel.app/) |
+| **WordPulse** | 글자수·단어수 실시간 카운터 및 음성 스피치 소요 시간 계산기 | 바이트 계산(UTF-8/EUC-KR), SNS 글자수 | [🔗 Live Demo](https://worldpulse-virid.vercel.app/) |
+| **PassCraft** | 암호학적 비밀번호 생성기 & 브루트포스 해킹 시간 측정기 | 비밀번호 엔트로피 및 보안 강도 분석 | [🔗 Live Demo](https://passcraft-henna.vercel.app/) |
+| **ZenFlow Timer** | Web Audio 기반 미니멀 뽀모도로 집중 타이머 & 사운드스케이프 | 빗소리·장작불 무압축 오디오 합성 | [🔗 Live Demo](https://zenflow-timer.vercel.app/) |
 
 ---
 
@@ -91,58 +90,58 @@ Web Development · AI Engineering · Automation · Machine Learning
 
 ### 01. 📝 Blog-it | AI 콘텐츠 자동화 서비스
 
-AI 기반 콘텐츠 제작 및 자동 발행 웹 서비스
+**AI 기반 콘텐츠 제작 및 자동 발행 웹 서비스**
 
 콘텐츠 기획부터 생성, 검토, 예약 발행까지 하나의 웹 서비스로 구현한 프로젝트입니다.
 
-담당 역할
+**담당 역할**
 - 서비스 기획, 프론트엔드 및 백엔드 개발
 - AI 기반 콘텐츠 및 이미지 생성 기능 구현
 - 네이버·스레드 콘텐츠 발행 자동화
 - 예약 작업 관리 및 서비스 QA
 - 서버 배포 및 오류 개선
 
-기술: `React` `TypeScript` `FastAPI` `MongoDB` `Selenium`
+**기술:** `React` `TypeScript` `FastAPI` `MongoDB` `Selenium`
 
 ---
 
 ### 02. 🤖 아이오나 | AI 서비스 QA 및 답변 평가
 
-AI 서비스 품질 검증 및 LLM 답변 평가 시스템
+**AI 서비스 품질 검증 및 LLM 답변 평가 시스템**
 
 AI 서비스의 사용성을 검증하고, 다양한 AI 모델의 답변 품질을 체계적으로 평가하는 프로젝트입니다.
 
-담당 역할
+**담당 역할**
 - 서비스 기능 및 UX 품질 검증
 - AI 답변 품질 평가 기준 설계
 - 평가 질문 데이터셋 및 테스트 케이스 구성
 - 규칙 기반 자동 판정 및 라우팅 검증
 - 평가 시스템의 프론트엔드·백엔드 연동
 
-분야: `AI Evaluation` `LLM` `Python` `Service QA`
+**분야:** `AI Evaluation` `LLM` `Python` `Service QA`
 
-진행 상태: 평가 기능 검증 및 개선 진행 중
+**진행 상태:** 평가 기능 검증 및 개선 진행 중
 
 ---
 
 ### 03. ❤️ CardioCare | 머신러닝 예측 모델
 
-심장병 관련 데이터를 활용한 머신러닝 예측 프로젝트
+**심장병 관련 데이터를 활용한 머신러닝 예측 프로젝트**
 
 공개 데이터를 기반으로 머신러닝 모델을 개발하고, 다양한 평가지표를 활용해 모델 성능을 검증했습니다.
 
-주요 구현
+**주요 구현**
 - 탐색적 데이터 분석 및 데이터 전처리
 - 로지스틱 회귀, SVC, 랜덤 포레스트 모델 비교
 - 모델 하이퍼파라미터 튜닝
 - MLflow 기반 실험 관리
 - Docker 및 CI 기반 실행 환경 검증
 
-모델 테스트 결과
-- 재현율(Recall): 87.88%
-- F1 Score: 84.06%
+**모델 테스트 결과**
+- 재현율(Recall): **87.88%**
+- F1 Score: **84.06%**
 
-기술: `Python` `scikit-learn` `MLflow` `Docker`
+**기술:** `Python` `scikit-learn` `MLflow` `Docker`
 
 ---
 
@@ -160,10 +159,10 @@ AI 서비스의 사용성을 검증하고, 다양한 AI 모델의 답변 품질�
 
 ## 🏆 Awards & Activities
 
-🏅 교내 기업분석 공모전 금상
+🏅 **교내 기업분석 공모전 금상**
 - 플랜아이 기업 및 서비스 분석
 
-💻 개발 프로젝트 및 실무 경험
+💻 **개발 프로젝트 및 실무 경험**
 - AI 서비스 개발 및 QA
 - 웹 서비스 기획·구현·배포
 - 팀 프로젝트 및 협업 경험
@@ -172,11 +171,11 @@ AI 서비스의 사용성을 검증하고, 다양한 AI 모델의 답변 품질�
 
 ## 🎯 Currently Interested In
 
-- 🤖 AI Agents — AI 에이전트 및 지능형 업무 자동화
-- 🧠 LLM Engineering — 대규모 언어 모델 활용 및 평가
-- 🌐 Full-Stack Development — 웹 서비스 설계와 개발
-- ⚡ Workflow Automation — 개발 및 업무 프로세스 자동화
-- 📈 AI Product Development — 실제 사용자에게 가치를 제공하는 AI 서비스
+- 🤖 **AI Agents** — AI 에이전트 및 지능형 업무 자동화
+- 🧠 **LLM Engineering** — 대규모 언어 모델 활용 및 평가
+- 🌐 **Full-Stack Development** — 웹 서비스 설계와 개발
+- ⚡ **Workflow Automation** — 개발 및 업무 프로세스 자동화
+- 📈 **AI Product Development** — 실제 사용자에게 가치를 제공하는 AI 서비스
 
 ---
 
@@ -185,4 +184,3 @@ AI 서비스의 사용성을 검증하고, 다양한 AI 모델의 답변 품질�
 감사합니다! 🙌
 
 </div>
-```
